@@ -1,2 +1,6 @@
 # IOT-Library-Books-Dropbox
-This is my Diploma Final Year Project.
+This is my Diploma Final Year Project, which focuses on creating a portable library book dropbox with IoT capabilities. This dropbox serves as a temporary storage location for books and incorporates an IoT system. The project includes databases for student information and a record of returned books for the librarian.
+
+MJII students often face challenges returning books to the library, especially during weekends and public holidays when the library is closed. Additionally, returning books during working days can be inconvenient due to class schedules. The primary objective of this project is to design an RFID system for students and librarians, which includes push buttons, an LCD display, and LED indicators. The programming for this system is developed using the Arduino IDE, while data is stored on the Firebase website. FritZing is used for circuit design and simulation.
+
+The dropbox is equipped with an ESP8266 as a WiFi module, enabling it to transmit information from students to the database. With the implementation of this dropbox, students can return books at any time since it is located outside the library. Librarians have access to real-time information about returned books. Consequently, the IOT Library Books Dropbox has been successfully developed and is now in operation. Students can return books without concerns about library closures, and the system's user-friendly design encourages book returns.
